@@ -1,8 +1,14 @@
-# 👩‍💻Julianna Matias
+<div align="center">
+
+# Hello, world! Eu sou Julianna Matias 😁
+
+</div>
+
 **`Desenvolvedora FullStack`**
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focada em desenvolvimento Backend com **Java** e **Spring Boot**.
-
+<div align="center">
+  
 ### ✨Linguagens e Tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -16,13 +22,23 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focada em desenvol
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=81B5A1)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</div>
+
 ---
 
+<div align="center">
+  
 ### ✨Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianna-matias-2b8538318?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasjulianna07@gmail.com)
 
+</div>
+
 ---
 
+<div align="center">
+  
 ### ✨Estatísticas do GitHub:
 ![Estatísticas de JuMa](https://github-readme-stats.vercel.app/api?username=juma-cabral&show_icons=true&theme=dracula)
+
+</div>
