@@ -37,8 +37,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focada em desenvol
 ---
 
 <div align="center">
-  
-### ✨Estatísticas do GitHub:
-![Estatísticas de JuMa](https://github-readme-stats.vercel.app/api?username=juma-cabral&show_icons=true&theme=dracula)
 
+
+###  Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juma-cabral/juma-cabral/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juma-cabral/juma-cabral/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/juma-cabral/juma-cabral/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
